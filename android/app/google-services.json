@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356798724333",
+    "firebase_url": "https://invest-idea-b1f35.firebaseio.com",
+    "project_id": "invest-idea-b1f35",
+    "storage_bucket": "invest-idea-b1f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356798724333:android:863a6bd50776b81c72b4e4",
+        "android_client_info": {
+          "package_name": "com.example.invest_idea_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356798724333-03h6lar9rvgrv77slddh299eng3rf0jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRf5grwWHo5dHQrKOe7HsI6Rc-dMkP6dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356798724333-03h6lar9rvgrv77slddh299eng3rf0jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
