@@ -1,8 +1,7 @@
 # Idea Invest App
  A social media platform where people can share their ideas to help others or invest their ideas in different projects. This application is built with Flutter.
  
-![Screenshot](screenshots/Screenshot_1600777389.png)
-![Screenshot](screenshots/Screenshot_1600777401.png)
+![Screenshot](screenshots/Screenshot_1600777389.png) ![Screenshot](screenshots/Screenshot_1600777401.png)
 ![Screenshot](screenshots/Screenshot_1600777417.png)
 ![Screenshot](screenshots/Screenshot_1600777432.png)
 ![Screenshot](screenshots/Screenshot_1600777436.png)
@@ -15,3 +14,8 @@
 ![Screenshot](screenshots/Screenshot_1600777486.png)
 ![Screenshot](screenshots/Screenshot_1600777492.png)
 ![Screenshot](screenshots/Screenshot_1600777526.png)
+![Screenshot](screenshots/Screenshot_1600777549.png)
+![Screenshot](screenshots/Screenshot_1600777606.png)
+![Screenshot](screenshots/Screenshot_1600777659.png)
+![Screenshot](screenshots/Screenshot_1600778942.png)
+![Screenshot](screenshots/Screenshot_1600778955.png)
